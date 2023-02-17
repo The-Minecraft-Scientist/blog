@@ -1,1 +1,1 @@
-Charlie's Blog
+https://the-minecraft-scientist.github.io/blog/
